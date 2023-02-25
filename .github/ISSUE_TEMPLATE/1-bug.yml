@@ -16,9 +16,9 @@ body:
     attributes:
       label: Initial checklist
       options:
-        - label: I read the [support docs](../blob/main/support.md)
+        - label: I read the [support docs](https://github.com/briancavanaugh/.github/blob/main/support.md)
           required: true
-        - label: I read the [contributing guide](../blob/main/contributing.md)
+        - label: I read the [contributing guide](https://github.com/briancavanaugh/.github/blob/main/contributing.md)
           required: true
         - label: I agree to follow the [code of conduct](https://github.com/briancavanaugh/.github/blob/main/CODE_OF_CONDUCT.md)
           required: true
