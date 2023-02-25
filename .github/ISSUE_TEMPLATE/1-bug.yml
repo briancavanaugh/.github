@@ -1,5 +1,5 @@
-name: "🐛 Bug report"
-description: Describe a problem
+name: "Bug report"
+description: "Describe a problem"
 
 body:
 - type: markdown
