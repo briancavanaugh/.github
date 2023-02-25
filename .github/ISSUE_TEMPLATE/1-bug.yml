@@ -16,11 +16,11 @@ body:
     attributes:
       label: Initial checklist
       options:
-        - label: I read the [support docs](https://github.com/briancavanaugh/.github/blob/main/support.md)
+        - label: I read the [support docs](https://github.com/briancavanaugh/.github/blob/main/SUPPORT.md)
           required: true
-        - label: I read the [contributing guide](https://github.com/briancavanaugh/.github/blob/main/contributing.md)
+        - label: I read the [contributing guide](https://github.com/briancavanaugh/.github/blob/main/CONTRIBUTING.md)
           required: true
-        - label: I agree to follow the [code of conduct](../blob/main/CODE_OF_CONDUCT.md)
+        - label: I agree to follow the [code of conduct](https://github.com/briancavanaugh/.github/blob/main/CODE_OF_CONDUCT.md)
           required: true
         - label: I searched issues and could not find anything (or linked relevant results below)
           required: true
